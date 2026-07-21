@@ -11,7 +11,7 @@
 
 ![Flock Emerge animated simulation preview](docs/images/flock-emerge-demo.gif)
 
-[Live Demo](https://infinitebloom-max.github.io/Flock-Emerge/) · [Algorithm](#algorithm) · [Controls](#controls) · [Roadmap](#roadmap)
+[Live Demo](https://ronithrashmikara.github.io/Flock-Emerge/) · [Algorithm](#algorithm) · [Controls](#controls) · [Roadmap](#roadmap)
 
 </div>
 
