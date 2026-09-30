@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/images/banner.webp" alt="Flock Emerge banner" width="100%"></p>
+
 <div align="center">
 
 # Flock Emerge
